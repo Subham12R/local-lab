@@ -1,0 +1,1 @@
+## A local, terminal-native RAG learning lab with an interactive chat loop and a small set of explicit maintenance commands.
