@@ -1,4 +1,3 @@
-cat > data/sample/python_lists.md <<'EOF'
 # Python Lists
 
 ## What is a list?
